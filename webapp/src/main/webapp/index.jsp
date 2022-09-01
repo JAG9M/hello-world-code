@@ -33,5 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <h1> love you all alot </h1>
+   <h1> Be safe from covid-19 </h1>
   
 </form>
